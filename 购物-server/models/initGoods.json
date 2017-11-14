@@ -1,0 +1,502 @@
+[
+  {
+    "brand_id": 10001,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "temai",
+    "brand_name": "adidas",
+    "brand_price": 110,
+    "brand_desc": "国际大牌！引领潮流",
+    "brand_pic": "http://img12.360buyimg.com/cms/jfs/t11647/239/1292760283/30595/f9ab7f19/59fffc9bNe249ccaf.jpg"
+  },
+  {
+    "brand_id": 10002,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "temai",
+    "brand_name": "adidas",
+    "brand_price": 120,
+    "brand_desc": "精品男装",
+    "brand_pic": "http://img13.360buyimg.com/cms/jfs/t7801/271/3926341517/177059/cce9a250/59ffc7beNdbef76b7.jpg"
+  },
+  {
+    "brand_id": 10003,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "temai",
+    "brand_name": "adidas",
+    "brand_price": 130,
+    "brand_desc": "精品男装",
+    "brand_pic": "https://gw.alicdn.com/bao/uploaded/TB1GW.fXuEJL1JjSZFGSuu6OXXa.jpg_440x440q75"
+  },
+  {
+    "brand_id": 10004,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "rexiao",
+    "brand_name": "adidas",
+    "brand_price": 140,
+    "brand_desc": "热销男装！",
+    "brand_pic": "https://gw.alicdn.com/bao/uploaded/i3/451788700/TB2jxXfdHBkpuFjy1zkXXbSpFXa_!!451788700.jpg_440x440q70.jpg"
+  },
+  {
+    "brand_id": 10005,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "rexiao",
+    "brand_name": "adidas",
+    "brand_price": 150,
+    "brand_desc": "引领时尚！！",
+    "brand_pic": "https://img.alicdn.com/imgextra/i4/109970459/TB2h6pxbAfb_uJjSsrbXXb6bVXa_!!0-saturn_solar.jpg_220x220.jpg_.webp"
+  },
+  {
+    "brand_id": 10006,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "rexiao",
+    "brand_name": "adidas",
+    "brand_price": 160,
+    "brand_desc": "销量超好！！",
+    "brand_pic": "https://gw.alicdn.com/bao/uploaded/i3/702541909/TB2y0sWtNXlpuFjSsphXXbJOXXa_!!702541909.jpg_440x440q70.jpg"
+  },
+  {
+    "brand_id": 10007,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "adidas",
+    "brand_price": 170,
+    "brand_desc": "精品风衣！",
+    "brand_pic": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2843963768/TB2.4k.fU1HTKJjSZFmXXXeYFXa_!!2843963768.jpg_180x180.jpg_.webp"
+  },
+  {
+    "brand_id": 10008,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "adidas",
+    "brand_price": 180,
+    "brand_desc": "超酷防风衣！",
+    "brand_pic": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i5/TB1w1goKVXXXXb7aXXXYXGcGpXX_M2.SS2_180x180.jpg_.webp"
+  },
+  {
+    "brand_id": 10009,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装装",
+    "brand_status": "jingpin",
+    "brand_name": "都市丽人",
+    "brand_price": 190,
+    "brand_desc": "女神必备!",
+    "brand_pic": "http://s2.mogucdn.com/mlcdn/c45406/170622_4ehkgj2ag7el2ckb59d3h586bb0ja_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10010,
+    "brand_cate": "type_girl",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "都市丽人",
+    "brand_price": 200,
+    "brand_desc": "女神必备!",
+    "brand_pic": "http://s17.mogucdn.com/mlcdn/c45406/170421_0eg9hh8gh6jj37f07h3j2k5jah9e2_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10011,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "都市里人",
+    "brand_price": 220,
+    "brand_desc": "超高回头率！",
+    "brand_pic": "http://s2.mogucdn.com/mlcdn/c45406/170526_3b6a34eai87154g6i11a71ab5h3kb_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10012,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "都市丽人",
+    "brand_price": 230,
+    "brand_desc": "美女们的选择",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/17f85e/170510_6efkgcc5ec9a9g02d87fl028014k9_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10013,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "都市丽人",
+    "brand_price": 240,
+    "brand_desc": "绝对高大上！",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/c45406/170703_4d7d9777201jfi7k5cbfdlg2l2581_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10014,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 250,
+    "brand_desc": "夏季潮流!",
+    "brand_pic": "http://s2.mogucdn.com/mlcdn/c45406/170620_5llbg7ba6gjihcg0jedc16cb59j1i_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10015,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 260,
+    "brand_desc": "引爆夏季潮流!",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/c45406/170519_52k6ifbb318a1ii3j1he09ck8f323_800x1200.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10016,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 270,
+    "brand_desc": "超值的存在!",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/c45406/170421_0fb1c9d3j3hf0932i4l61ljb28deh_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10017,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 280,
+    "brand_desc": "选择就不会错过!",
+    "brand_pic": "http://s11.mogucdn.com/mlcdn/c45406/170627_867h059le4g5ci0b05k5887dlka0d_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10018,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 290,
+    "brand_desc": "我就是你的选择",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/c45406/170623_2c0fe84793fbda75cd0je7gi74fdd_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10019,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 300,
+    "brand_desc": "做最漂亮的自己！",
+    "brand_pic": "http://s3.mogucdn.com/mlcdn/c45406/170426_14b064a69k4dgd61kd1fi6k1ig74g_640x960.png_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10020,
+    "brand_cate": "type_girl",
+    "brand_cateName": "女装",
+    "brand_status": "jingpin",
+    "brand_name": "贵人鸟",
+    "brand_price": 201,
+    "brand_desc": "换你美丽人生！",
+    "brand_pic": "http://s2.mogucdn.com/mlcdn/c45406/170601_1c5fkcjibfc38ld6b935066ahd0ch_640x960.jpg_240x308.v1cAC.70.webp"
+  },
+  {
+    "brand_id": 10021,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "花花公子",
+    "brand_price": "222",
+    "brand_desc": "做最帅的自己!",
+    "brand_pic" : "http://img14.360buyimg.com/n8/jfs/t7741/190/4649089844/210996/43eb4396/59ee2232N9490a53f.jpg"
+  },
+  {
+    "brand_id": 10022,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "花花公子",
+    "brand_price": "222",
+    "brand_desc": "做最帅的自己!",
+    "brand_pic" : "http://img13.360buyimg.com/n8/jfs/t10207/194/2067662686/197469/dffc0543/59ee223bN3c6bd46c.jpg"
+  },
+  {
+    "brand_id": 10023,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "花花公子",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img14.360buyimg.com/n8/jfs/t13474/256/290188863/279631/675113e6/5a07c89dNfc21d577.jpg"
+  },
+  {
+    "brand_id": 10024,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "花花公子",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img14.360buyimg.com/n8/jfs/t10303/87/1617857623/237394/40fae3b0/59e375e6Nb317a55f.jpg"
+  },
+  {
+    "brand_id": 10025,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "红豆",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img10.360buyimg.com/n8/jfs/t10795/220/2519209566/432724/39823269/59f936abN2b69c247.jpg"
+  },
+  {
+    "brand_id": 10026,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "红豆",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img10.360buyimg.com/n8/jfs/t7255/166/791250564/269615/103fe903/5996b94fNb664daab.jpg"
+  },
+  {
+    "brand_id": 10027,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "红豆",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img11.360buyimg.com/n8/jfs/t8794/22/2549003976/345658/e6cb626f/59dae54eNc6fd1b67.jpg"
+  },
+  {
+    "brand_id": 10028,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "红豆",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img14.360buyimg.com/n8/jfs/t7075/56/2489703193/419147/be0e7299/5996a8a5Ne4cf395b.jpg"
+  },
+  {
+    "brand_id": 10029,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "雪中飞",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img11.360buyimg.com/n8/jfs/t8977/178/2448937448/308766/8f838905/59cdefe6N3affcc28.jpg"
+  },
+  {
+    "brand_id": 10030,
+    "brand_cate": "type_man",
+    "brand_cateName": "男装",
+    "brand_status": "jingpin",
+    "brand_name": "雪中飞",
+    "brand_price": "222",
+    "brand_desc": "超值优惠",
+    "brand_pic" : "http://img10.360buyimg.com/n8/jfs/t13006/259/136702626/246632/58a4dfa3/5a04529eNb0e75246.jpg"
+  },
+  {
+    "brand_id": 10031,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "iphone8",
+    "brand_price": "4999",
+    "brand_desc": "疯狂直降!!",
+    "brand_pic" : "http://image3.suning.cn/uimg/b2c/newcatentries/0070060611-000000000709234643_1_220x220.jpg"
+  },
+  {
+    "brand_id": 10032,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "iphone4s",
+    "brand_price": "999",
+    "brand_desc": "疯狂直降!!",
+    "brand_pic" : "http://image4.suning.cn/uimg/b2c/newcatentries/0070166465-000000000675116984_1_220x220.jpg?ver=2002"
+  },
+  {
+    "brand_id": 10033,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "iphone4s",
+    "brand_price": "999",
+    "brand_desc": "疯狂直降!!",
+    "brand_pic" : "http://image5.suning.cn/uimg/b2c/newcatentries/0070166465-000000000675116946_1_220x220.jpg?ver=2002"
+  },
+  {
+    "brand_id": 10034,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "iphone8plus",
+    "brand_price": "6158",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "http://image5.suning.cn/uimg/b2c/newcatentries/0070166587-000000000715970290_1_220x220.jpg?ver=2000"
+  },
+  {
+    "brand_id": 10035,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "iphone6",
+    "brand_price": "2300",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "http://image4.suning.cn/uimg/b2c/newcatentries/0070166587-000000000603476253_1_220x220.jpg?ver=2000"
+  },
+  {
+    "brand_id": 10036,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "vivo x20",
+    "brand_price": "3300",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "http://image1.suning.cn/uimg/b2c/newcatentries/0000000000-000000000735427475_1_200x200.jpg?ver=2007"
+  },
+  {
+    "brand_id": 10037,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "三星！",
+    "brand_price": "2300",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "https://image4.suning.cn/uimg/b2c/newcatentries/0000000000-000000000159964889_1_220x220.jpg?ver=2000"
+  },
+  {
+    "brand_id": 10038,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "三星！",
+    "brand_price": "2300",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "https://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000682053879_1_220x220.jpg?ver=2003"
+  },
+  {
+    "brand_id": 10039,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "三星！",
+    "brand_price": "2300",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "https://image5.suning.cn/uimg/b2c/newcatentries/0000000000-000000000173153786_1_220x220.jpg?ver=2001"
+  },
+  {
+    "brand_id": 10040,
+    "brand_cate": "type_phone",
+    "brand_cateName": "手机",
+    "brand_status": "jingpin",
+    "brand_name": "三星！",
+    "brand_price": "3800",
+    "brand_desc": "最新款！！",
+    "brand_pic" : "https://image5.suning.cn/uimg/b2c/newcatentries/0070156122-000000000655027353_1_220x220.jpg?ver=2001"
+  },
+  {
+    "brand_id": 10041,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "惠普电脑",
+    "brand_price": "5566",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t7630/288/740883172/167016/fd393aa1/5996a248Nf114e15f.jpg"
+  },
+  {
+    "brand_id": 10042,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "华为电脑",
+    "brand_price": "5566",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t6019/78/6041991682/286945/9239532d/59700f93Nae91545e.jpg"
+  },
+  {
+    "brand_id": 10043,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想电脑",
+    "brand_price": "5566",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t3793/114/394282152/175032/419db602/58089d25N0529144e.jpg"
+  },
+  {
+    "brand_id": 10044,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想电脑",
+    "brand_price": "7399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t11746/357/1277342409/188824/39be5a8d/59ffd46eN750fc606.jpg"
+  },
+  {
+    "brand_id": 10045,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想电脑",
+    "brand_price": "7399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t11497/98/324250169/193267/9cbaf1ca/59ed8b09N261b81ea.jpg"
+  },
+  {
+    "brand_id": 10046,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想电脑",
+    "brand_price": "4399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t13987/86/255198811/269896/4dab0eeb/5a072010N362a7145.jpg"
+  },
+  {
+    "brand_id": 10047,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想拯救者！",
+    "brand_price": "8399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t11926/217/1309283752/228477/f2ea2a50/59ffd522N9a0b3428.jpg"
+  },
+  {
+    "brand_id": 10048,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想小新潮！！",
+    "brand_price": "6399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t10660/322/1178074302/271590/baf0ea9e/59ddb729N768a80ed.jpg"
+  },
+  {
+    "brand_id": 10049,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想小新潮！！",
+    "brand_price": "4399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t13600/48/255303224/319317/d64a545b/5a071edbN61740d2a.jpg"
+  },
+  {
+    "brand_id": 10050,
+    "brand_cate": "type_pc",
+    "brand_cateName": "电脑",
+    "brand_status": "jingpin",
+    "brand_name": "联想小新潮！！",
+    "brand_price": "4399",
+    "brand_desc": "超值体验超博14寸",
+    "brand_pic" : "http://img1.360buyimg.com/n6/jfs/t5239/195/1764702147/228646/bd86ca57/5913f36cNc2da31e3.jpg"
+  }
+]

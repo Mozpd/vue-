@@ -1,0 +1,37 @@
+1.如何去除eslint对某句js代码的检测  在需要关闭eslint检测的行后面加上以下注释 // eslint-disable-line
+2.如何修改或关闭已有的eslint检查工具  https://segmentfault.com/a/1190000008742240
+3.vue-cli的webpack模板项目配置文件分析 http://www.jb51.net/article/110192.htm
+4.node自动打开浏览器姿势（自动获取本地ip） http://www.jianshu.com/p/54daac2cc924
+5.vue中使用scss sass 
+一，https://zhuanlan.zhihu.com/p/25106145 二，http://www.jianshu.com/p/67f52071657d
+6.vuex的简单学习： https://segmentfault.com/a/1190000005780326 
+import Vue from 'vue'
+import Vuex from 'vuex'
+Vue.use(Vuex)
+export default new Vuex.Store({
+ //用于存放数据
+ state:{},
+ //用于改变状态
+ mutations:{},
+ //用于改变状态 多用于异步
+ actions:{},
+ //getters 也是用于存放数据 但存的的计算后的数据
+ getters:{}
+}）
+7.vue-infinite-loading 这是一个使用在Vue.js中的无限滚动插件，它可以帮助你快速创建一个无限滚动列表 http://www.jianshu.com/p/bfb5ca56b4fb
+https://peachscript.github.io/vue-infinite-loading/#!/spinners
+8.created 钩子函数: 这是它的一个生命周期钩子函数，就是一个vue实例被生成后调用这个函数。一个vue实例被生成后还要绑定到某个html元素上，之后还要进行编译，然后再插入到document中。每一个阶段都会有一个钩子函数，方便开发者在不同阶段处理不同逻辑。
+一般可以在created函数中调用ajax获取页面初始化所需的数据
+9. 关于method created compted ready 这些都可以在里面写方法，但是实质性有什么区别https://segmentfault.com/q/1010000007222778?_ea=1276139
+10.vue router详解 关于linkActiveClass  https://www.cnblogs.com/chengjunL/p/6282125.html
+11.node中的map映射：Map的作用就是做映射。对象也可以用来做映射，但由于对象的键名只能是字符串（或Symbol），因此存在一些限制，例如不能对对象进行映射。Map就没有这个限制，可以对任意类型进行映射
+12.javascript之Object.assign()痛点 拷贝和合并 http://blog.csdn.net/waiterwaiter/article/details/50267787  https://www.cnblogs.com/heiye168/p/5689006.html
+13.vue 如何实现在函数中触发路由跳转 this.$router.push({path:'/index'})
+14.mongdb mongodb_修改器（$inc/$set/$unset/$push/$pop/upsert......） http://blog.csdn.net/MCpang/article/details/7752736
+https://www.2cto.com/database/201507/417544.html
+15.vue 常用命令v-if//v-show//v-else//v-for//v-bind//v-on http://www.jb51.net/article/96422.htm
+v-for循环以及其 参数http://caibaojian.com/vue-js-if-for.html
+16.使用localstorage代替cookie进行存储
+http://www.jb51.net/article/106981.htm##3 
+https://segmentfault.com/a/1190000002723469
+http://www.jb51.net/article/78013.htm
